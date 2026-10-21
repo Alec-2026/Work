@@ -1,0 +1,25 @@
+# 数据目录
+**/data/
+**/data-例行/
+**/logs/
+**/labels/
+**/data-schedule/
+**/models/
+
+# IDE
+.idea/
+.vscode/
+
+# Mac
+.DS_Store
+
+# Python
+*.pyc
+__pycache__/
+.venv/
+
+# 敏感配置
+**/conf.ini
+**/conf.ini.txt
+.env
+.env.*

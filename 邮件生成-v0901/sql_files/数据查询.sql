@@ -1,0 +1,2 @@
+select *
+from tag_voice_quality_inspection

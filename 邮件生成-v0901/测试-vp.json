@@ -1,0 +1,74 @@
+[
+  {
+    "properties": {
+      "last_behavioral_email_type": "viewed_promotion_abandonment",
+      "n1v1_email_round": "round_1",
+      "firstname": "Isa",
+      "lastname": "Fernandez",
+      "last_viewed_product_name": "Sticker Sheets",
+      "industry_level_2": "Food and Beverage",
+      "dedicated_account_manager_label_for_ai_email": "Megan H",
+      "first_order_offer_message": "",
+      "loyalty_tier": "Elite",
+      "last_viewed_promotion_page_slug": null
+    },
+    "recently_events": [
+      {
+        "objectType": "CONTACT",
+        "eventType": "pe243770723_viewed_promotion",
+        "properties": {
+          "page_name": "black-friday-2026",
+          "hs_page_url": "https://www.racetopprint.com/sale/black-friday-deals?utm_source=test&utm_campaign=promotion"
+        }
+      }
+    ]
+  },
+  {
+    "properties": {
+      "last_behavioral_email_type": "viewed_promotion_abandonment",
+      "n1v1_email_round": "round_1",
+      "firstname": "Maya",
+      "lastname": "Chen",
+      "last_viewed_product_name": "Custom Labels",
+      "industry_level_2": "Beauty and Personal Care",
+      "dedicated_account_manager_label_for_ai_email": "L Bella",
+      "first_order_offer_message": "",
+      "loyalty_tier": "Partner",
+      "last_viewed_promotion_page_slug": null
+    },
+    "recently_events": [
+      {
+        "objectType": "CONTACT",
+        "eventType": "pe243770723_viewed_promotion",
+        "properties": {
+          "page_name": "valentines-day-packaging",
+          "hs_page_url": "https://www.racetopprint.com/sale/valentines-day-packaging"
+        }
+      }
+    ]
+  },
+  {
+    "properties": {
+      "last_behavioral_email_type": "viewed_promotion_abandonment",
+      "n1v1_email_round": "round_1",
+      "firstname": "Jordan",
+      "lastname": "Lee",
+      "last_viewed_product_name": "Custom Mailer Boxes",
+      "industry_level_2": "Retail",
+      "dedicated_account_manager_label_for_ai_email": "Megan H",
+      "first_order_offer_message": "",
+      "loyalty_tier": "Starter",
+      "last_viewed_promotion_page_slug": null
+    },
+    "recently_events": [
+      {
+        "objectType": "CONTACT",
+        "eventType": "pe243770723_viewed_promotion",
+        "properties": {
+          "page_name": "buy-more-save-more",
+          "hs_page_url": "https://www.racetopprint.com/sale/buy-more-save-more?utm_source=email&utm_medium=behavioral&utm_campaign=vp-test"
+        }
+      }
+    ]
+  }
+]
